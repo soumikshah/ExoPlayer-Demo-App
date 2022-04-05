@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ExoPlayer Demo</string>
+    <string name="player_activity_name">Media player</string>
+    <string name="media_url_mp3">https://storage.googleapis.com/exoplayer-test-media-0/play.mp3</string>
+    <string name="media_url_mp4">https://html5demos.com/assets/dizzy.mp4</string>
+    <string name="media_url_dash">https://storage.googleapis.com/wvmedia/clear/vp9/tears/tears_uhd.mpd</string>
+    <string name="media_url_smooth_streaming">http://playready.directtaps.net/smoothstreaming/TTLSS720VC1/To_The_Limit_720_1427.ismv</string>
+    <string name="media_url_hls">https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8</string>
+    <string name="play_mp3">Play MP3</string>
+    <string name="play_mp4">Play MP4</string>
+    <string name="play_dash_video">Play DASH video</string>
+    <string name="play_hls_video">Play HLS video</string>
+    <string name="app_description"><font size="22"><b>This is a basic showcase application for Exoplayer library.</b></font>
+        \n\n\n <b>It can stream these types of filetypes:\n- MP3 \n- MP4 \n - DASH \n- HLS</b> \n
+        \n<b>You can minimize the application and come back to it and it will continue playing the stream from where you left it.</b>
+        \n\n
+        <b>Adaptive Streaming has been implemented for DASH and HLS file types.</b> So if your internet connectivity is not good,
+        you can still watch the video in low quality
+        \n\n
+        <b>It handles different player states like Buffering, Ready and Ended.</b>
+        \n\n
+        <b>It shows progress bar when video is buffering, and it exits out of player when video ends. You can see a toast message when video ends.</b>
+        \n\n
+        <b>Handles player error by showing a toast message.</b>\n\n
+        <b>Has working Dark Mode</b>
+
+    </string>
+</resources>
