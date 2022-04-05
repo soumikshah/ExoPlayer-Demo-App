@@ -1,5 +1,5 @@
 # ExoPlayer Demo Application
-This is a basic showcase application for exoplayer library.
+This is a basic demo application for exoplayer library.
 
 
 - It can stream these types of file:
